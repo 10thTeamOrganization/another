@@ -11,6 +11,7 @@ $tbl_name="admin" ; // Table name
 
 
 
+
 $errflag = false;
 
 if($_POST['admin_name'] == '')
